@@ -1,0 +1,7 @@
+{
+  "src/main.ts": {
+    "file": "functions-lib.umd.js",
+    "src": "src/main.ts",
+    "isEntry": true
+  }
+}
